@@ -1,5 +1,7 @@
-# project2
+# Project 2 - Sample to show then one can edit, amend, update, delete accordingly and it will be notified by a bot on Telegram in a group.
 
-docker run -d -p 8080:8080 u1ih/nodejs-api
+//Test test test
 
-curl -i http://localhost:8080/fx
+// Telegram page: https://t.me/CICDproject2
+
+//Any modifications done to this will be auto triggered and be notified via telegram in above telegram page. This is a sample message. Test test. Update again!
