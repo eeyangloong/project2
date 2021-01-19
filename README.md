@@ -1,4 +1,4 @@
-# project2
+# Project 2 - Sample to show then one can edit, amend, update, delete accordingly and it will be notified by a bot on Telegram in a group.
 
 //Test test test
 
