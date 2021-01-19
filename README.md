@@ -9,5 +9,7 @@
 ### HOW TO GET NOTIFICATIONS FROM GITHUB RESPO 
 
 ## Steps
-![](devsettingtoken.png)
+![](devsettingtoken.jpg)
 # Ensure that under developer setting, you have authorised and give a token for Telegram to access notification and broadcast it in the group.
+
+# Open Telegram, search for GitHub Bot and /start and follow the instructions, ensure you authorise GitHub and vice versa to pair the two and ensure the respective repository is selected.
