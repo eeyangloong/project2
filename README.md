@@ -1,4 +1,5 @@
 # Project 2 - Sample to show that one can edit, amend, update, delete accordingly and it will be notified by a bot on Telegram in a group.
+# DEVELOPMENT + OPERATIONAL = DEVOPS. Continuous integration (CI) and Continuous delivery (CD) embody a culture, set of operating principles, and collection of practices that enable application development teams to deliver code changes more frequently and reliably. The implementation is also known as the CI/CD pipeline.
 
 //Test test test
 
