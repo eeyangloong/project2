@@ -1,8 +1,6 @@
 # Project 2 - Sample to show that one can edit, amend, update, delete accordingly and it will be notified by a bot on Telegram in a group.
 # DEVELOPMENT + OPERATIONAL = DEVOPS. Continuous integration (CI) and Continuous delivery (CD) embody a culture, set of operating principles, and collection of practices that enable application development teams to deliver code changes more frequently and reliably. The implementation is also known as the CI/CD pipeline.
 
-//Test test test
-
 // Telegram page: https://t.me/CICDproject2
 
 //Any modifications done to this will be auto triggered and be notified via telegram in above telegram page. This is a sample message. Test test. Update again!
@@ -19,3 +17,5 @@
 ### Now when paired, you will get a notification on Telegram whenever anyone commits to any activity onto your work saved in your respository.
 
 ![](telegramscreenshot.jpg)
+
+## Thank you.
