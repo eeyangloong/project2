@@ -18,3 +18,4 @@
 
 ### Now when paired, you will get a notification on Telegram whenever anyone commits to any activity onto your work saved in your respository.
 
+![](telegramscreenshot.jpg)
